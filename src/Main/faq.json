@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "question":"Where is Uzbekistan ?",
+        "ans":"In central Asia"
+    },
+    {
+        "id":2,
+        "question":"Is Uzbekistan famous for ?",
+        "ans":"Uzbekistan is famous from sports.Uzbekistan National team of boxing and national foods of Uzbekistan is respected from another country's people."
+    },
+    {
+        "id":3,
+        "question":"Which city is the capital of Uzbekistan ?",
+        "ans":"Tashkent"
+    },
+    {
+        "id":4,
+        "question":"Is Uzbekistan cheap ?",
+        "ans":"We can say it is true.So, museums and medreses for exibitioning is very cheap.1 usd for each person The is not murders by guns in Uzbekistan and there is not crime gangs in Uzbekistan"
+    },
+    {
+        "id":5,
+        "question":"Is Uzbekistan safe ?",
+        "ans":"There is not murders by guns in Uzbekistan and there is not crime gangs in Uzbekistan"
+    }
+]

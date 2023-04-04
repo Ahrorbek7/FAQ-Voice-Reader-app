@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Edu+NSW+ACT+Foundation:wght@400;600;700&family=Montserrat:ital,wght@0,500;1,400&display=swap');
+.header{
+    background-color: #0e1621;
+    text-align: center;
+    padding: 10px;
+}
+.header > h4{
+    font-size: 40px;
+    color: #ffffff;
+    font-family: 'Alkatra', cursive;
+}
+
+.faqSection{
+    padding: 0 30px 0 30px;
+}
+.chakra-accordion__item > button{
+    font-size: 25px;
+}
